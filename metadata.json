@@ -1,0 +1,15 @@
+{
+  "name": "Rothschild Capital",
+  "symbol": "RTC",
+  "description": "The official digital asset of Rothschild Capital.",
+  "image": "https://raw.githubusercontent.com/RothschildCapital/Rothschild-Capital/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/RothschildCapital/Rothschild-Capital/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
